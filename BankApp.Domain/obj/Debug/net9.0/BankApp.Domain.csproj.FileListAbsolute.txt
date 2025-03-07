@@ -1,0 +1,15 @@
+C:\cursor\BankApp\BankApp.Domain\obj\Debug\net9.0\BankApp.Domain.csproj.AssemblyReference.cache
+C:\cursor\BankApp\BankApp.Domain\obj\Debug\net9.0\BankApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursor\BankApp\BankApp.Domain\obj\Debug\net9.0\BankApp.Domain.AssemblyInfoInputs.cache
+C:\cursor\BankApp\BankApp.Domain\obj\Debug\net9.0\BankApp.Domain.AssemblyInfo.cs
+C:\cursor\BankApp\BankApp.Domain\obj\Debug\net9.0\BankApp.Domain.csproj.CoreCompileInputs.cache
+C:\cursor\BankApp\BankApp.Domain\bin\Debug\net9.0\BankApp.Domain.deps.json
+C:\cursor\BankApp\BankApp.Domain\bin\Debug\net9.0\BankApp.Domain.dll
+C:\cursor\BankApp\BankApp.Domain\bin\Debug\net9.0\BankApp.Domain.pdb
+C:\cursor\BankApp\BankApp.Domain\bin\Debug\net9.0\BankApp.Core.dll
+C:\cursor\BankApp\BankApp.Domain\bin\Debug\net9.0\BankApp.Core.pdb
+C:\cursor\BankApp\BankApp.Domain\obj\Debug\net9.0\BankApp..B50F6DF5.Up2Date
+C:\cursor\BankApp\BankApp.Domain\obj\Debug\net9.0\BankApp.Domain.dll
+C:\cursor\BankApp\BankApp.Domain\obj\Debug\net9.0\refint\BankApp.Domain.dll
+C:\cursor\BankApp\BankApp.Domain\obj\Debug\net9.0\BankApp.Domain.pdb
+C:\cursor\BankApp\BankApp.Domain\obj\Debug\net9.0\ref\BankApp.Domain.dll

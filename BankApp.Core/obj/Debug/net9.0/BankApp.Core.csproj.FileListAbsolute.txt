@@ -1,0 +1,12 @@
+C:\cursor\BankApp\BankApp.Core\obj\Debug\net9.0\BankApp.Core.csproj.AssemblyReference.cache
+C:\cursor\BankApp\BankApp.Core\obj\Debug\net9.0\BankApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursor\BankApp\BankApp.Core\obj\Debug\net9.0\BankApp.Core.AssemblyInfoInputs.cache
+C:\cursor\BankApp\BankApp.Core\obj\Debug\net9.0\BankApp.Core.AssemblyInfo.cs
+C:\cursor\BankApp\BankApp.Core\obj\Debug\net9.0\BankApp.Core.csproj.CoreCompileInputs.cache
+C:\cursor\BankApp\BankApp.Core\bin\Debug\net9.0\BankApp.Core.deps.json
+C:\cursor\BankApp\BankApp.Core\bin\Debug\net9.0\BankApp.Core.dll
+C:\cursor\BankApp\BankApp.Core\bin\Debug\net9.0\BankApp.Core.pdb
+C:\cursor\BankApp\BankApp.Core\obj\Debug\net9.0\BankApp.Core.dll
+C:\cursor\BankApp\BankApp.Core\obj\Debug\net9.0\refint\BankApp.Core.dll
+C:\cursor\BankApp\BankApp.Core\obj\Debug\net9.0\BankApp.Core.pdb
+C:\cursor\BankApp\BankApp.Core\obj\Debug\net9.0\ref\BankApp.Core.dll
